@@ -20,6 +20,13 @@ Exemplo:
 
 outra forma é usar [](). entre [] irá ser criado o botão e () colocaremos o link
 Exemplo:
-  [Link do linkedin](https://www.linkedin.com/in/david-oliveira-gomes-davidoliveiraccs-922914369)
+[Link do linkedin](https://www.linkedin.com/in/david-oliveira-gomes-davidoliveiraccs-922914369)
 
+***
+## Usando referencias
+podemos criar um referencia usando só chaves 
+
+Exmplo[linkdin][1]
+
+[1]: - https://www.linkedin.com/in/david-oliveira-gomes-davidoliveiraccs-922914369
 
