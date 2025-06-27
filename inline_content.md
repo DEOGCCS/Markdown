@@ -22,4 +22,6 @@ Desta forma podemos criar vários níveis dependendo da quantidade de # que adic
 Podemos realçar formatação em palavras da segunte fora:
 itálico: podem usar _exemplo1_ ou então *exemplo2*
 negrito: podem usar __exemplo1__ ou então **exemplo2**
+Sublinhado:
+Riscado:
 
