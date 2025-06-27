@@ -1,0 +1,25 @@
+# Links
+
+Existem trÊs formas de criar links
+
+***
+## Automated links
+
+Podemos adicionar simplesmente o link abaicho começando sempre por https://. 
+Exemplo:
+- Link do linkedin:
+  https://www.linkedin.com/in/david-oliveira-gomes-davidoliveiraccs-922914369
+
+nem todos os leitores de markdown vao interperetar este metodo.
+Para isso acontecer convém colocar <link> para poder fazer a hiperligação.
+Exemplo:
+  <www.linkedin.com/in/david-oliveira-gomes-davidoliveiraccs-922914369> 
+
+***
+## Usando chaves 
+
+outra forma é usar [](). entre [] irá ser criado o botão e () colocaremos o link
+Exemplo:
+  [Link do linkedin](https://www.linkedin.com/in/david-oliveira-gomes-davidoliveiraccs-922914369)
+
+
