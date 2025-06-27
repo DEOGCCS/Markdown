@@ -26,7 +26,8 @@ Exemplo:
 ## Usando referencias
 podemos criar um referencia usando só chaves 
 
-Exmplo[linkdin][1]
+Exmplo:
+[linkedin][1]
 
 [1]: - https://www.linkedin.com/in/david-oliveira-gomes-davidoliveiraccs-922914369
 
@@ -42,3 +43,10 @@ Exemplo.
   ![imagem de perfil](imagens/istockphoto-1344022890-612x612.jpg 'cara de gato')
 
 *Para adicionar uma legenda na foto basta, dentro das () no final do link adicionar um espaço e escrever o temto entre ''*
+Também podemos usar as referencias, facilita caso queiramos usar a imagem como um hiperlink
+
+Exemplo
+[![gato da porra][gatinho]]
+
+[gatinho]:imagens/istockphoto-1344022890-612x612.jpg
+
