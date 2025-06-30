@@ -1,8 +1,9 @@
 # indentação
+---
 
 Para criar espaçamento lateral num texto basta começar este com > e dar um espaço. todo o parágrafo ir ser indentado
 
-Exemplo:
+*Exemplo:*
 > A indentação refere-se ao afastamento do texto em relação à margem, seja em documentos impressos ou em código de programação. Em outras palavras, é o espaço adicionado no início de uma linha ou parágrafo.
 
 quanto mais >> usarem mais indentado ficará o texto
@@ -16,28 +17,32 @@ Podemos separar um texto usando linhas atraves da repetição de *** ou --- ante
 # Lists
 
 Podemos usar listas adicionando símbolos antes de uma linha de texto. 
-Exemplo:
+
+*Exemplo:*
 - item 1
 - item 2
 - item 3
 - item 4
 
 Porém devems sempre usar o mesmo símnolo para a mesma lista, senão criaremos novas listas.
-Exemplo:
+
+*Exemplo:*
 - item 1
 + item 2
 + item 3
 - item 4
 
 Indentação em listas também pode ocorrer para criar subcategorias. Tem sempre de ser dois espaços antes do símbolo senão ele não assume espaço. 
-Exemplo
+
+*Exemplo*
 - item 1
   - item 2
   - item 3
 - item 4 
 
 Para cirar numeração o número não interessa ele automáticamente assume a ordem certa.
-Exemplo:
+
+*Exemplo:*
 1. item
 2. item 2
 2. item 3
